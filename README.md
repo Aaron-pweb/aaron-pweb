@@ -68,12 +68,11 @@ Lightweight APIs built with Flask & FastAPI.
 ## 📊 GitHub Stats
 
 
-```md
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaron-pweb&show_icons=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-pweb&layout=compact" height="160" />
 </p>
-```
 
 ---
 
