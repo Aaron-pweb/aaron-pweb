@@ -65,18 +65,6 @@ Lightweight APIs built with Flask & FastAPI.
 
 ---
 
-## 📊 GitHub Stats
-
-
-<p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaron-pweb&show_icons=true&hide_border=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-pweb&layout=compact&hide_border=true&theme=radical)
-
-</p>
-
-
----
-
 ## 📫 Contact Me
 
 * **GitHub:** https://github.com/Aaron-pweb
