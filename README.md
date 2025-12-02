@@ -3,6 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-blue" />
   <img src="https://img.shields.io/badge/Flask-Backend-black" />
+  <img src="https://img.shields.io/badge/selenuim-green" />
+  <img src="https://img.shields.io/badge/data-scientis-red" />
   <img src="https://img.shields.io/badge/AI-Enthusiast-purple" />
 </p>
 
