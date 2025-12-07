@@ -16,13 +16,13 @@ I'm a dedicated **Python developer** specializing in **Flask**, backend developm
 
 ---
 
-## 🧠 Skills & Expertise
+## Skills & Expertise
 
 ### **Programming Languages**
 
 * 🐍 Python (Primary)
 * 📝 HTML / CSS /
-* Prompt Engineer
+* 📝 Prompt Engineer
 
 ### **Frameworks & Tools**
 
@@ -42,7 +42,7 @@ I'm a dedicated **Python developer** specializing in **Flask**, backend developm
 
 ---
 
-## 🌟 Highlights
+## Highlights
 
 * Built multiple production-ready Flask applications
 * Integrated AI-powered automation tools
@@ -51,7 +51,7 @@ I'm a dedicated **Python developer** specializing in **Flask**, backend developm
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### 🔹 **Flask Web App Template**
 
@@ -67,7 +67,7 @@ Lightweight APIs built with Flask & FastAPI.
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 * **GitHub:** https://github.com/Aaron-pweb
 * **Email:** [aaronteshale138@gmail.com](mailto:youremail@example.com)
