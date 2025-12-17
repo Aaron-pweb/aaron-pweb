@@ -28,9 +28,9 @@ I'm a dedicated **Python developer** specializing in **Flask**, backend developm
 
 * Flask
 * FastAPI
+* PostMan Api
 * SQLAlchemy
 * Jinja2
-* Docker
 * Git & GitHub
 * Selenuim
 
