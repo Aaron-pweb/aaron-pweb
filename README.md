@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aaron 
+# Hi, I'm Aaron 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-yellow" />
