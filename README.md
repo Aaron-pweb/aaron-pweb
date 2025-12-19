@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a dedicated **Python developer** specializing in **Flask**, backend development, automation, and AI-powered applications. I enjoy designing scalable systems, building clean and efficient APIs, and experimenting with AI integrations to create meaningful software.
 
