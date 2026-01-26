@@ -38,7 +38,7 @@ I'm a dedicated **Python developer** specializing in **Flask**, backend developm
 ### **Databases**
 
 * SQLite
-* SqlAlchemy
+* SqlAlchemy (ORM)
 
 ---
 
