@@ -16,22 +16,6 @@ I'm a dedicated **Python developer** specializing in **Flask**, backend developm
 
 ---
 
-## Featured Projects
-
-### 🔹 **Flask Web App Template**
-
-Reusable boilerplate for scalable Flask apps.
-
-### 🔹 **AI Automation Tools**
-
-Python scripts using AI models for intelligent text processing.
-
-### 🔹 **REST API Microservices**
-
-Lightweight APIs built with Flask & FastAPI.
-
----
-
 ## Contact Me
 
 * **GitHub:** https://github.com/Aaron-pweb
