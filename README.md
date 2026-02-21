@@ -16,41 +16,6 @@ I'm a dedicated **Python developer** specializing in **Flask**, backend developm
 
 ---
 
-## Skills & Expertise
-
-### **Programming Languages**
-
-* 🐍 Python (Primary)
-* 📝 HTML / CSS /
-* 📝 Prompt Engineer
-
-### **Frameworks & Tools**
-
-* Flask
-* FastAPI
-* PostMan Api
-* SQLAlchemy
-* Jinja2
-* Git & GitHub
-* Selenuim
-
-
-### **Databases**
-
-* SQLite
-* SqlAlchemy (ORM)
-
----
-
-## Highlights
-
-* Built multiple production-ready Flask applications
-* Integrated AI-powered automation tools
-* Strong focus on clean architecture and maintainable code
-* Constant learner exploring backend & AI technologies
-
----
-
 ## Featured Projects
 
 ### 🔹 **Flask Web App Template**
