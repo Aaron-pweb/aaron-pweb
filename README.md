@@ -1,4 +1,4 @@
-# Hello, I'm Aaron Engineer, Developer
+# Hello, I'm Aaron
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-yellow" />
