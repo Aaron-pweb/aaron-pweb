@@ -1,4 +1,5 @@
-#<span style="color:blue">I can do all things through Christ who strengthens me" 
+<span style="color:red">I can do all things through Christ who strengthens me" 
+
 (Philippians 4:13)</span>"
 ## Hello, I'm Aaron
 <p align="center">
