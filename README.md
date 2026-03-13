@@ -1,5 +1,5 @@
-# "I can do all things through Christ who strengthens me" 
-(Philippians 4:13)
+#<span style="color:blue">I can do all things through Christ who strengthens me" 
+(Philippians 4:13)</span>"
 ## Hello, I'm Aaron
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-yellow" />
