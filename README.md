@@ -1,4 +1,5 @@
-# Hello, I'm Aaron
+# "I can do all things through Christ who strengthens me" 
+(Philippians 4:13)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-yellow" />
