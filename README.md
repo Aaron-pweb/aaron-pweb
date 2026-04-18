@@ -15,7 +15,7 @@ I'm a dedicated **Python developer** specializing in **Flask**, backend developm
 
 ---
 
-## Contact Me
+## Connect with Me
 
 * **GitHub:** https://github.com/Aaron-pweb
 * **Email:** [aaronteshale138@gmail.com](mailto:youremail@example.com)
