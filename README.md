@@ -20,5 +20,5 @@ I'm a dedicated **Python developer** specializing in **Flask**, backend developm
 * **GitHub:** https://github.com/Aaron-pweb
 * **Email:** [aaronteshale138@gmail.com](mailto:youremail@example.com)
 * **Telegram:** https://t.me/The_Aaron_perspective
-* **Portofoio:** https://aaron-pweb.github.io/
+* **Portofoio:** [https://aaron-pweb.github.io/](https://aaron-pweb.github.io/my-portfolio/)
 ---
