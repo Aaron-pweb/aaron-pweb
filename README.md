@@ -8,7 +8,7 @@
 ---
 
 ## About me:
-I am Aaron, Python Developer I have built project using Python frameworks & labraries for data science and web-app projects. I like reading books on my free time. I also love playing and watching football.
+I am Aaron, Python Developer I have built project using Python frameworks & libraries for data-science and web-app projects. I like reading books on my free time. I also love playing and watching football.
  
 - Currently building: **Nothing** 
 - Currently learning: **JavaScript, Chess, Spanish, Django**
