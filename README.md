@@ -51,6 +51,18 @@ I am Aaron, Python Developer I have built project using Python frameworks & libr
   <a href="https://www.postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
+</a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql/database" width="40" height="40"/>
+</a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"
+       alt="redis"
+       width="40"
+       height="40"/>
+</a>
 </p>
 
 ---
