@@ -10,7 +10,7 @@
 ## About me:
 I am Aaron, Python Developer I have built project using Python frameworks & libraries for data-science and web-app projects. I like reading books on my free time. I also love playing and watching football.
  
-- Currently building: **Nothing** 
+- Currently building: <a href="https://github.com/Aaron-pweb/Open-Games-Store/" target="_blank" rel="noreferrer"> Open-game </a>
 - Currently learning: **JavaScript, Chess, Spanish, Django**
 - Ask me about: **Python, Data-science or anything Fun.**
 
