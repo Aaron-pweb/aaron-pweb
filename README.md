@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey There, I'm Aaron 
+# Hi There, I'm Aaron 
 
 ### Christian | Full-stack Developer & Designer
 </div>
