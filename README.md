@@ -2,7 +2,7 @@
 
 # Hey There, I'm Aaron 
 
-### Christian | Becoming Full-stack Developer & Designer
+### Christian | Full-stack Developer & Designer
 </div>
 
 ---
